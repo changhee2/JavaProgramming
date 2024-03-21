@@ -23,7 +23,7 @@ public class ScannerEx {
 		
 		boolean isSingle = Scanner.nextBoolean();
 		System.out.println("독신 여부는 "+ isSingle+ "f");
-		System.out.println("감사합니다....");
+		System.out.println("감사합니다ㅋㅋㅋㅋㅋㅋ");
 		Scanner.close();
 		
 	}
