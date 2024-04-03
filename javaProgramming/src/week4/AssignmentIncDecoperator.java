@@ -17,7 +17,7 @@ public class AssignmentIncDecoperator {
 		a=d--;
 		System.out.println("a="+a+", d="+d);
 		a=--d;
-		System.out.println("a="+a+", d="+d);
+		System.out.println("a="+a+", d="+d);                    
 	}
 
 }
